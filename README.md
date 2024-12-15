@@ -21,7 +21,6 @@ The workshops provided much insight into how Digital Humanities can be utilized 
 The projects that we did in class, Printing in Prisons and the EC assignment, allowed me to use what I had been learning through readings, lectures, and the workshops outside of class and apply it to my work. The Canaries in Eastern State essay was a way to express my interest in animals and the significance of a theme like animal care and hobbies for incarcerated men. I thought about expressing the data I had found and my perspective in many creative ways. Ultimately, I decided to use the digital tool Canva as it allowed for more interaction and placement of the images and texts. After utilizing that to create the draft, I could transport it onto GitHub and learn new skills on website additions and interactions. Here, I could see the intersection of history, preservation, and technology while managing my perspective and expression. 
 
 
-<img src="/assets/img/codearticle.jpg" width="200" height="162">
 <img src="/assets/img/articlecanary.jpg" width="200" height="137">
 <img src="/assets/img/article2.jpg" width="200" height="149">
 
@@ -37,6 +36,8 @@ The Education Commons was a place on campus I had never visited. Therefore, gett
 Many patterns emerged throughout the semester. For instance, as mentioned previously, there are applications of creativity and expression through data while preserving it through digital mediums like GitHub and essay writing or coding. In addition, storytelling was personally emphasized throughout the class as all data has significance, and all projects tell narratives. Initially, these themes came from the readings, but then I could see their precise applications in person. Through our many field trips and hands-on work, I could think critically about the themes and began expanding my personal growth throughout the course. 
 
 
+<img src="/assets/img/codearticle.jpg" width="200" height="162">
+
+
 ## Reflection
 Furthermore, as I mentioned before, digital humanities was just a combination of technology and humanities at the start. However, as time went on, that view expanded. Digital humanities is about preserving data and reiterating the importance of self-expression and the narratives behind our projects and data. Therefore, these ideas can be analyzed by oneself and by everyone who interacts with them, creating a space for discussion and a reminder of data and its history in the field of humanities. As for the projects and work, I wish I had more time to work in Education Commons as that project felt rushed. I would've loved to make something more complex with the laser cutter. However, with the time given and the assignments done, I uncovered essential themes in The Umpire. Ultimately, this course has allowed me to grow personally and academically, giving me more inspiration and creativity for future projects. 
-
