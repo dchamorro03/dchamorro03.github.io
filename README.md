@@ -5,7 +5,7 @@
 </head>
 <body>
     <!-- Subheader Section -->
-    <h2>Explore More</h2>
+    <h2>Looking Forward Statement</h2>
     <ul>
         <li><a href="/lookingforward/">Looking Forward</a></li>
     </ul>
@@ -54,6 +54,19 @@ Many patterns emerged throughout the semester. For instance, as mentioned previo
 ## Reflection
 Furthermore, as I mentioned before, digital humanities was just a combination of technology and humanities at the start. However, as time went on, that view expanded. Digital humanities is about preserving data and reiterating the importance of self-expression and the narratives behind our projects and data. Therefore, these ideas can be analyzed by oneself and by everyone who interacts with them, creating a space for discussion and a reminder of data and its history in the field of humanities. As for the projects and work, I wish I had more time to work in Education Commons as that project felt rushed. I would've loved to make something more complex with the laser cutter. However, with the time given and the assignments done, I uncovered essential themes in The Umpire. Ultimately, this course has allowed me to grow personally and academically, giving me more inspiration and creativity for future projects. 
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <!-- Subheader Section -->
+    <h2>Looking Forward Statement</h2>
+    <ul>
+        <li><a href="/lookingforward/">Looking Forward</a></li>
+    </ul>
+    
+
 # Bibliography
 Christen, Kim. Dr. 2016. Youtube, https://www.youtube.com/watch?v=q0kW6swgM5o.
 
@@ -61,3 +74,6 @@ Gil, Alex. Dr. 2018. Youtube, https://www.youtube.com/watch?v=gw4S1uocTcY.
 
 ## Images
 Majority of the images were taken by me, in exception to the Education Commons project ones taken by my fellow group members with their permission to share here. 
+
+
+
