@@ -66,6 +66,7 @@ In the end, the three steps I want to take post-class reflect that I have regain
 
 # Bibliography
 Christen, Kim. Dr. 2016. Youtube, https://www.youtube.com/watch?v=q0kW6swgM5o.
+
 Gil, Alex. Dr. 2018. Youtube, https://www.youtube.com/watch?v=gw4S1uocTcY.
 
 ## Images
