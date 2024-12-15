@@ -61,6 +61,3 @@ Gil, Alex. Dr. 2018. Youtube, https://www.youtube.com/watch?v=gw4S1uocTcY.
 
 ## Images
 Majority of the images were taken by me, in exception to the Education Commons project ones taken by my fellow group members with their permission to share here. 
-
-
-
