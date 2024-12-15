@@ -62,4 +62,11 @@ My last step is to continue to grow my current personal project. During the pand
 
 
 ## Conclusion
-In the end, the three steps I want to take post-class reflect that I have regained a passion for combining my interests in modern-day digital technologies through a meaningful perspective on history and significant areas in the humanities. Through a combination of these two, I will continue to foster what I learned in this course and through my minor while also getting to work on my own personal interests. 
+In the end, the three steps I want to take post-class reflect that I have regained a passion for combining my interests in modern-day digital technologies through a meaningful perspective on history and significant areas in the humanities. Through a combination of these two, I will continue to foster what I learned in this course and through my minor while also getting to work on my own personal interests.
+
+# Bibliography
+Christen, Kim. Dr. 2016. Youtube, https://www.youtube.com/watch?v=q0kW6swgM5o.
+Gil, Alex. Dr. 2018. Youtube, https://www.youtube.com/watch?v=gw4S1uocTcY.
+
+## Images
+Majority of the images were taken by me, in exception to the Education Commons project ones taken by my fellow group members with their permission to share here. 
