@@ -47,7 +47,7 @@ After taking this course, I want to take three significant steps to continue my 
 
 
 ## Product Design
-An area of expertise that has always interested me was Product Design. However, my major classes that allowed this type of work were difficultchallenging to fit into my schedule. The Digital Humanities minor and this course encouraged me to continue working and pursuing that passion. For instance, we worked hands-on with laser cutter machines through the Education Commons project. In addition, the idea of building something physical that provides a product to someone, in this case, a representation of data, is something I want to pursue. Through this course, I realized that not only do I want to help build and construct products, but I want them to be meaningful and tell narratives that might go otherwise untold, forming a stronger connection with my humanities-oriented major of PPE. 
+An area of expertise that has always interested me was Product Design. However, my major classes that allowed this type of work were difficult to fit into my schedule. The Digital Humanities minor and this course encouraged me to continue working and pursuing that passion. For instance, we worked hands-on with laser cutter machines through the Education Commons project. In addition, the idea of building something physical that provides a product to someone, in this case, a representation of data, is something I want to pursue. Through this course, I realized that not only do I want to help build and construct products, but I want them to be meaningful and tell narratives that might go otherwise untold, forming a stronger connection with my humanities-oriented major of PPE. 
 
 
 ## Courses and Skills
@@ -55,7 +55,7 @@ Another step I want to take is to continue taking advantage of the resources I h
 
 
 ## Personal Project
-My last step is to continue to grow my current personal project. During the pandemic, I worked on creating vinyl stickers with everyday sayings and cultural references to Nicaragua. I wanted to combine my interests in culture and humanities from my home while also getting to implement the digital skills I have acquired. However, I haven’t had enough time, opportunity, and skills to continue at Penn. Now, through my learning in this class, I want to restart this venture and continue working on it using the resources demonstrated to me through our field trips and the new skills I have acquired. 
+My last step is to continue to grow my current personal project. During the pandemic, I worked on creating vinyl stickers with everyday sayings and cultural references to Nicaragua. I wanted to combine my interests in culture and humanities from my home while also getting to implement the digital skills I have acquired. However, I haven’t had enough time, opportunity, and skills to continue at Penn. Now, through my learning in this class, I want to restart this venture and continue working on it using the resources demonstrated to me through our field trips, class and the new skills I have acquired. 
 
 
 <img src="/assets/img/stickers.jpg" width="200" height="168">
