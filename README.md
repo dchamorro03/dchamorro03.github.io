@@ -58,5 +58,8 @@ Another step I want to take is to continue taking advantage of the resources I h
 My last step is to continue to grow my current personal project. During the pandemic, I worked on creating vinyl stickers with everyday sayings and cultural references to Nicaragua. I wanted to combine my interests in culture and humanities from my home while also getting to implement the digital skills I have acquired. However, I haven’t had enough time, opportunity, and skills to continue at Penn. Now, through my learning in this class, I want to restart this venture and continue working on it using the resources demonstrated to me through our field trips and the new skills I have acquired. 
 
 
+<img src="/assets/img/stickers.jpg" width="200" height="168">
+
+
 ## Conclusion
 In the end, the three steps I want to take post-class reflect that I have regained a passion for combining my interests in modern-day digital technologies through a meaningful perspective on history and significant areas in the humanities. Through a combination of these two, I will continue to foster what I learned in this course and through my minor while also getting to work on my own personal interests. 
