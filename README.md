@@ -1,5 +1,5 @@
 # Statement of Reflection of ENGL 1650
-
+<h1 style="background-color:rgb(255, 99, 71);">Statement of Reflection of ENGL 1650</h1>
 
 When I enrolled for this course, I was expecting a class where we discussed the intersection of expressing history, sociology, and other fields through digital media, but it became more than that. Throughout the semester, I have realized how multifaceted Digital Humanities is, and the many different avenues one can take with a simple piece of data. This semester taught me to approach data and projects more creatively and meaningfully. Therefore, I have now learned to think more critically about history, the themes we can find, and how they can be preserved and expressed through different mediums. The workshops provided me with a lens outside of class, combining fields like board games and computer science or technology creation with communication. The assignment on The Umpire allowed me to look at data critically, collecting information that might go unnoticed. Lastly, through the final project in the EC, we went beyond just reflecting on data and created our visual representation. In the end, I now realize the many themes that intersect through digital humanities, like critical thinking, technology, creativity, communication, and reflection.
 
