@@ -10,7 +10,7 @@ The workshops provided much insight into how Digital Humanities can be utilized 
 <br></br>
 <img src="/assets/img/meshtastic.jpg" width="112" height="150">
 <img src="/assets/img/boardgames.jpg" width="112" height="150">
-<img src="/assets/img/boardgames.jpg" width="150" height="118">
+<img src="/assets/img/boardgames2.jpg" width="150" height="118">
 <br></br>
 ## Projects
 The projects that we did in class, Printing in Prisons and the EC assignment, allowed me to use what I had been learning through readings, lectures, and the workshops outside of class and apply it to my work. The Canaries in Eastern State essay was a way to express my interest in animals and the significance of a theme like animal care and hobbies for incarcerated men. I thought about expressing the data I had found and my perspective in many creative ways. Ultimately, I decided to use the digital tool Canva as it allowed for more interaction and placement of the images and texts. After utilizing that to create the draft, I could transport it onto GitHub and learn new skills on website additions and interactions. Here, I could see the intersection of history, preservation, and technology while managing my perspective and expression. 
