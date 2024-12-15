@@ -1,8 +1,8 @@
-<div style="text-align: center; margin-bottom: 20px;">
-    <a href="/lookingforward/" style="font-size: 18px; color: rgb(40,124,188); text-decoration: none; font-weight: bold;">
-        Looking Forward
-    </a>
-</div>
+ <div style="text-align: center; margin-bottom: 20px; padding: 10px; background-color: #f0f8ff; border: 1px solid #ccc; border-radius: 5px;">
+        <a href="/lookingforward/" style="font-size: 18px; color: rgb(40,124,188); text-decoration: none; font-weight: bold;">
+            👉 Click here to read my Looking Forward Statement
+        </a>
+ </div>
 
 <h1 style="background-color:rgb(40,124,188);">Statement of Reflection of ENGL 1650</h1>
 
